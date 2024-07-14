@@ -1,0 +1,25 @@
+{
+  "name": "github-stats",
+  "version": "1.0.0",
+  "description": "github-stats generates dynamic images of your GitHub activity for easy sharing and showcasing.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SonetAD/github-stats.git"
+  },
+  "keywords": [
+    "github-stats",
+    "developer-tool",
+    "github",
+    "git"
+  ],
+  "author": "Sonet Adhikary",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SonetAD/github-stats/issues"
+  },
+  "homepage": "https://github.com/SonetAD/github-stats#readme"
+}
